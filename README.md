@@ -3,7 +3,7 @@
 ## Sobre o Projeto
 Este projeto foi desenvolvido como conclusão do módulo de **Visualização de Dados: Power BI** do curso **Formação Full Stack em Dados & Analytics** da **Pod Academy**. 
 
-A análise é baseada na edição 2025-2026 da pesquisa **State of Data Brazil**, realizada em parceria pelo **Data Hackers** e pela **Bain & Company**[cite: 2]. O objetivo central do dashboard é analisar o mercado de trabalho em dados sob uma perspectiva focalizada nos **profissionais com 50 anos ou mais (50+)**, mapeando sua representatividade, distribuição salarial, situação profissional e satisfação com a carreira.
+A análise é baseada na edição 2025-2026 da pesquisa **State of Data Brazil**, realizada em parceria pelo **Data Hackers** e pela **Bain & Company**[https://www.kaggle.com/datasets/datahackers/state-of-data-brazil-2025-2026]. O objetivo central do dashboard é analisar o mercado de trabalho em dados sob uma perspectiva focalizada nos **profissionais com 50 anos ou mais (50+)**, mapeando sua representatividade, distribuição salarial, situação profissional e satisfação com a carreira.
 
 ## Principais Indicadores Analisados
 * **Visão Geral:** Panorama geral da base de respondentes, destacando o percentual de profissionais 50+, taxas de emprego e satisfação geral.
@@ -28,9 +28,13 @@ Aprofundamento focado nos profissionais com 50 anos ou mais, detalhando sua situ
 
 ![50+ no Mercado de Dados](assets/tela_3.png)
 
+### 4. Technology Stack
+Mapeamento das tecnologias mais adotadas pelos profissionais, abrangendo linguagens de programação, bancos de dados, infraestrutura de nuvem e ferramentas de Business Intelligence.
+
+![Technology Stack](assets/tela_4.png)
+
 ## Tecnologias Utilizadas
 * **Power BI:** Tratamento de dados (Power Query), modelagem e construção de visualizações.
-
 
 ## Fonte dos Dados
 * **State of Data Brazil (2025-2026):** Parceria Data Hackers e Bain & Company[https://www.kaggle.com/datasets/datahackers/state-of-data-brazil-2025-2026].
