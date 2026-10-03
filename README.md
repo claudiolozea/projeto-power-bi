@@ -30,7 +30,7 @@ Aprofundamento focado nos profissionais com 50 anos ou mais, detalhando sua situ
 
 ## Tecnologias Utilizadas
 * **Power BI:** Tratamento de dados (Power Query), modelagem e construção de visualizações.
-* **Formato PBIP (Power BI Project):** Organização estruturada do projeto para versionamento de código.
+
 
 ## Fonte dos Dados
-* **State of Data Brazil (2025-2026):** Parceria Data Hackers e Bain & Company[cite: https://www.kaggle.com/datasets/datahackers/state-of-data-brazil-2025-2026].
+* **State of Data Brazil (2025-2026):** Parceria Data Hackers e Bain & Company[https://www.kaggle.com/datasets/datahackers/state-of-data-brazil-2025-2026].
